@@ -1,0 +1,45 @@
+[History]
+1=#P0#=mb	#P1#=pTestAllocOnStack	#P2#=TestInherit/modMain/pTestAllocOnStack	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110106205032	#P7#=0	#P8#=24	.
+2=#P0#=mb	#P1#=pTestAccessMeAndBase	#P2#=TestInherit/modMain/pTestAccessMeAndBase	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110106204541	#P7#=0	#P8#=8	.
+3=#P0#=mb	#P1#=pTestMultipleInterfaceSupport	#P2#=TestInherit/modMain/pTestMultipleInterfaceSupport	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110106204529	#P7#=0	#P8#=12	.
+4=#P0#=mb	#P1#=pTestDispatch	#P2#=TestInherit/modMain/pTestDispatch	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110106204513	#P7#=0	#P8#=19	.
+5=#P0#=mb	#P1#=pTestAccessInnerData	#P2#=TestInherit/modMain/pTestAccessInnerData	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110106204439	#P7#=0	#P8#=17	.
+6=#P0#=mb	#P1#=pTestClone	#P2#=TestInherit/modMain/pTestClone	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110106204328	#P7#=0	#P8#=22	.
+7=#P0#=mb	#P1#=pTestInherit	#P2#=TestInherit/modMain/pTestInherit	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110106204315	#P7#=0	#P8#=21	.
+8=#P0#=mb	#P1#=pTestStealData	#P2#=TestInherit/modMain/pTestStealData	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110106204235	#P7#=0	#P8#=29	.
+9=#P0#=mb	#P1#=pTestErrorCatch	#P2#=TestInherit/modMain/pTestErrorCatch	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110106204052	#P7#=0	#P8#=9	.
+10=#P0#=mb	#P1#=pTestCreation	#P2#=TestInherit/modMain/pTestCreation	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110106204040	#P7#=0	#P8#=63	.
+11=#P0#=mb	#P1#=pTestRelease	#P2#=TestInherit/modMain/pTestRelease	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110106201537	#P7#=0	#P8#=18	.
+12=#P0#=mb	#P1#=pTestObjectFeature	#P2#=TestInherit/modMain/pTestObjectFeature	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110106201409	#P7#=0	#P8#=52	.
+13=#P0#=mb	#P1#=Main	#P2#=TestInherit/modMain/Main	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20110106200832	#P7#=0	#P8#=61	.
+14=#P0#=mb	#P1#=pTestHelloWorld	#P2#=TestInherit/modMain/pTestHelloWorld	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101225014208	#P7#=0	#P8#=12	.
+15=#P0#=mb	#P1#=zInitWolf	#P2#=TestInherit/modWolf/zInitWolf	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101225005536	#P7#=0	#P8#=28	.
+16=#P0#=mb	#P1#=This_Func_ToString	#P2#=TestInherit/modWolf/This_Func_ToString	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101225005349	#P7#=0	#P8#=0	.
+17=#P0#=mb	#P1#=pTestAccessDerived	#P2#=TestInherit/modMain/pTestAccessDerived	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101210004106	#P7#=0	#P8#=11	.
+18=#P0#=mb	#P1#=pTestAccessBase	#P2#=TestInherit/modMain/pTestAccessBase	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101210003630	#P7#=0	#P8#=24	.
+19=#P0#=mb	#P1#=pTestShareData	#P2#=TestInherit/modMain/pTestShareData	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101209235719	#P7#=0	#P8#=11	.
+20=#P0#=mb	#P1#=ThisProp_GetColor	#P2#=TestInherit/modWolf/ThisProp_GetColor	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101209234312	#P7#=0	#P8#=6	.
+21=#P0#=mb	#P1#=pInitial	#P2#=TestInherit/modMain/pInitial	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101206150401	#P7#=0	#P8#=5	.
+22=#P0#=mb	#P1#=This_Prop_LetLegsCount	#P2#=TestInherit/modAnimal/This_Prop_LetLegsCount	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101206115422	#P7#=0	#P8#=4	.
+23=#P0#=mb	#P1#=IObject_ToString	#P2#=TestInherit/VBAnimal/IObject_ToString	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101206113607	#P7#=0	#P8#=3	.
+24=#P0#=mb	#P1#=ThisProp_LetColor	#P2#=TestInherit/modWolf/ThisProp_LetColor	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101206112716	#P7#=0	#P8#=-1	.
+25=#P0#=mb	#P1#=EyesCount	#P2#=TestInherit/VBAnimal/EyesCount [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20101205192752	#P7#=0	#P8#=0	.
+26=#P0#=mb	#P1#=zInitAnimal	#P2#=TestInherit/modAnimal/zInitAnimal	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101205190358	#P7#=0	#P8#=5	.
+27=#P0#=mb	#P1#=pClass_DefaultConstructor	#P2#=TestInherit/modAnimal/pClass_DefaultConstructor	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101205184831	#P7#=0	#P8#=-3	.
+28=#P0#=mb	#P1#=Class_Initialize	#P2#=TestInherit/VBAnimal/Class_Initialize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101205184339	#P7#=0	#P8#=-1	.
+29=#P0#=mb	#P1#=Class_Terminate	#P2#=TestInherit/VBAnimal/Class_Terminate	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101205184336	#P7#=0	#P8#=0	.
+30=#P0#=mb	#P1#=LegsCount	#P2#=TestInherit/VBAnimal/LegsCount [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20101205184219	#P7#=0	#P8#=2	.
+31=#P0#=mb	#P1#=LegsCount	#P2#=TestInherit/VBAnimal/LegsCount [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20101205184216	#P7#=0	#P8#=0	.
+32=#P0#=mb	#P1#=EyesCount	#P2#=TestInherit/VBAnimal/EyesCount [Let]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20101205184209	#P7#=0	#P8#=0	.
+33=#P0#=mb	#P1#=Move	#P2#=TestInherit/VBAnimal/Move	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101205184149	#P7#=0	#P8#=2	.
+34=#P0#=mb	#P1#=Bite	#P2#=TestInherit/VBAnimal/Bite	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101205184100	#P7#=0	#P8#=4	.
+35=#P0#=mb	#P1#=This_Prop_GetLegsCount	#P2#=TestInherit/modAnimal/This_Prop_GetLegsCount	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101205180419	#P7#=0	#P8#=-1	.
+36=#P0#=mb	#P1#=pTerminate	#P2#=TestInherit/modMain/pTerminate	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101205172924	#P7#=0	#P8#=8	.
+37=#P0#=mb	#P1#=zInitDemiWolf	#P2#=TestInherit/modDemiwolf/zInitDemiWolf	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101203161154	#P7#=0	#P8#=0	.
+38=#P0#=mb	#P1#=NewAnimalReturnPtr	#P2#=TestInherit/modAnimal/NewAnimalReturnPtr	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101203152607	#P7#=0	#P8#=0	.
+39=#P0#=mb	#P1#=pClass_Terminate_Wolf	#P2#=TestInherit/modWolf/pClass_Terminate_Wolf	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101203145801	#P7#=0	#P8#=4	.
+40=#P0#=mb	#P1#=pClass_Terminate_DemiWolf	#P2#=TestInherit/modDemiwolf/pClass_Terminate_DemiWolf	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101203145751	#P7#=0	#P8#=4	.
+41=#P0#=mb	#P1#=pClass_Terminate	#P2#=TestInherit/modAnimal/pClass_Terminate	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101203145742	#P7#=0	#P8#=0	.
+42=#P0#=mb	#P1#=pClass_Initialize	#P2#=TestInherit/modAnimal/pClass_Initialize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101203145735	#P7#=0	#P8#=0	.
+43=#P0#=mb	#P1#=ThisProp_GetOrigin	#P2#=TestInherit/modWolf/ThisProp_GetOrigin	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20101128121556	#P7#=0	#P8#=2	.
+44=#P0#=mb	#P1#=pTestConstructorWithArgs	#P2#=TestInherit/modMain/pTestConstructorWithArgs	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20101122204141	#P7#=0	#P8#=8	.
